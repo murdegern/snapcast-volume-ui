@@ -31,7 +31,7 @@ body {
 }
 
 p {font-size: 30px; line-height: 30px}
-div.demo {text-align: center; width: 250px; height: 40px;}
+div.demo {text-align: center; width: 310px; height: 40px;}
 div.demo > p{font-size: 20px}
 
 h1 {
@@ -186,7 +186,7 @@ h5 {
 	color:#ffffff;
 	margin:8px;
 	padding:0px;
-	height:inherit	
+	height:inherit
 	}
 	
 .half-unit hr {
